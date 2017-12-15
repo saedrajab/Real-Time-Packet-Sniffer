@@ -1,0 +1,7 @@
+0 IPv6
+1 ICMP, Internet Control Message Protocol.
+2 IGAP, IGMP for user Authentication Protocol.
+3 UDP, User Datagram Protocol.
+4 HTTP, Hyper Text Transfer Protocol.
+5 PPP, Point to Point Protocol.
+6 TCP, Transmission Control Protocol.
